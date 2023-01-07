@@ -3,7 +3,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 # Badges
 ![ alt text ](https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
-![ alt text ](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)
+![ alt text ](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=black)
 
 
 ========================================================================
