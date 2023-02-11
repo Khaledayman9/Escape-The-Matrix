@@ -99,13 +99,13 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 
 
-3. <details><summary>Player stats in first level</summary> 
+2. <details><summary>Player stats in first level</summary> 
   
       ![Screenshot (10)](https://user-images.githubusercontent.com/105018459/218269963-a2b2b66a-ba07-4638-90c3-facb9d1da205.png)
   
 </details>
 
-4. <details><summary>End of first level</summary> 
+3. <details><summary>End of first level</summary> 
   
      ![Screenshot (13)](https://user-images.githubusercontent.com/105018459/218270306-f971932d-66af-4cc7-b4f4-6545ea86bd90.png)
    
@@ -114,7 +114,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 </details>
 
 
-5. <details><summary>Start of second level</summary>
+4. <details><summary>Start of second level</summary>
   
     - In Third Person: 
 
@@ -128,7 +128,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 </details>
 
 
-6. <details><summary>Player stats in second level</summary>
+5. <details><summary>Player stats in second level</summary>
   
     ![Screenshot (21)](https://user-images.githubusercontent.com/105018459/218270819-6c185d71-16cc-4bcf-a605-b35b7c50f035.png)
 
@@ -136,7 +136,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 </details>
 
 
-7. <details><summary>End of second level</summary>
+6. <details><summary>End of second level</summary>
     
     ![Screenshot (18)](https://user-images.githubusercontent.com/105018459/218270932-f6e52d0b-a869-445e-b96f-924d787f1ae6.png)
 
@@ -145,7 +145,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 </details>
 
 
-8. <details><summary>Screens and cut scenes</summary>
+7. <details><summary>Screens and cut scenes</summary>
   
     - Losing screen/cut scene (whether in first or second level):
 
@@ -167,7 +167,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 </details>
 
 
-9. <details><summary>Different Lightning animations/themes </summary>
+8. <details><summary>Different Lightning animations/themes </summary>
   
   
   
