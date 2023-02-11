@@ -169,7 +169,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 8. <details><summary>Different Lightning animations/themes </summary>
   
-  
+    ![](https://github.com/Khaledayman9/Escape-The-Matrix/blob/main/lights.gif)
   
 </details>
 
