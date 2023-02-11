@@ -101,28 +101,28 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 3. <details><summary>Player stats in first level</summary> 
   
-    ![Screenshot (10)](https://user-images.githubusercontent.com/105018459/218269963-a2b2b66a-ba07-4638-90c3-facb9d1da205.png)
+      ![Screenshot (10)](https://user-images.githubusercontent.com/105018459/218269963-a2b2b66a-ba07-4638-90c3-facb9d1da205.png)
   
 </details>
 
 4. <details><summary>End of first level</summary> 
   
-   ![Screenshot (13)](https://user-images.githubusercontent.com/105018459/218270306-f971932d-66af-4cc7-b4f4-6545ea86bd90.png)
+     ![Screenshot (13)](https://user-images.githubusercontent.com/105018459/218270306-f971932d-66af-4cc7-b4f4-6545ea86bd90.png)
    
-   ![Screenshot (14)](https://user-images.githubusercontent.com/105018459/218270310-827cebf0-5f96-4c2f-8ea3-88d190937687.png)
+    ![Screenshot (14)](https://user-images.githubusercontent.com/105018459/218270310-827cebf0-5f96-4c2f-8ea3-88d190937687.png)
 
 </details>
 
 
 5. <details><summary>Start of second level</summary>
   
-  * In Third Person: 
-  
-  ![Screenshot (17)](https://user-images.githubusercontent.com/105018459/218270565-37f45325-2201-4df8-be18-0b4b1fb2b0f0.png)
-  
-  * In First Person:
-  
-  ![Screenshot (18)](https://user-images.githubusercontent.com/105018459/218270556-64abfb3d-f489-4c93-85d4-a49740eef98a.png)
+    - In Third Person: 
+
+    ![Screenshot (17)](https://user-images.githubusercontent.com/105018459/218270565-37f45325-2201-4df8-be18-0b4b1fb2b0f0.png)
+
+    - In First Person:
+
+    ![Screenshot (18)](https://user-images.githubusercontent.com/105018459/218270556-64abfb3d-f489-4c93-85d4-a49740eef98a.png)
   
 
 </details>
@@ -130,38 +130,38 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 6. <details><summary>Player stats in second level</summary>
   
-  ![Screenshot (21)](https://user-images.githubusercontent.com/105018459/218270819-6c185d71-16cc-4bcf-a605-b35b7c50f035.png)
+    ![Screenshot (21)](https://user-images.githubusercontent.com/105018459/218270819-6c185d71-16cc-4bcf-a605-b35b7c50f035.png)
 
  
 </details>
 
 
 7. <details><summary>End of second level</summary>
-  
-  ![Screenshot (18)](https://user-images.githubusercontent.com/105018459/218270932-f6e52d0b-a869-445e-b96f-924d787f1ae6.png)
+    
+    ![Screenshot (18)](https://user-images.githubusercontent.com/105018459/218270932-f6e52d0b-a869-445e-b96f-924d787f1ae6.png)
 
-  ![Screenshot (23)](https://user-images.githubusercontent.com/105018459/218270928-411d8f06-33a9-4efe-bad4-7d555c1bf769.png)
+    ![Screenshot (23)](https://user-images.githubusercontent.com/105018459/218270928-411d8f06-33a9-4efe-bad4-7d555c1bf769.png)
 
 </details>
 
 
 8. <details><summary>Screens and cut scenes</summary>
   
-  * Losing screen/cut scene (whether in first or second level):
-  
-  ![Screenshot (14)](https://user-images.githubusercontent.com/105018459/218271122-35f83fd5-2da8-4e12-874a-bee8199a9ed7.png)
-  
-  * Completing the first level and getting to the second level screen/cut scene:
-  
-  ![Screenshot (13)](https://user-images.githubusercontent.com/105018459/218271169-c50f391d-1846-4032-967b-bfe5625f982f.png)
+    - Losing screen/cut scene (whether in first or second level):
 
-  * Losing an extra life screen/cut scene:
-  
-  ![Screenshot (19)](https://user-images.githubusercontent.com/105018459/218271245-03ac999a-b588-4499-8849-dd076a93aa2a.png)
+    ![Screenshot (14)](https://user-images.githubusercontent.com/105018459/218271122-35f83fd5-2da8-4e12-874a-bee8199a9ed7.png)
 
-  * Winning screen/cut scene:
-  
-  ![Screenshot (20)](https://user-images.githubusercontent.com/105018459/218271261-e90c40be-5b5d-4f72-9da8-6218e8cbc561.png)
+    - Completing the first level and getting to the second level screen/cut scene:
+
+    ![Screenshot (13)](https://user-images.githubusercontent.com/105018459/218271169-c50f391d-1846-4032-967b-bfe5625f982f.png)
+
+    - Losing an extra life screen/cut scene:
+
+    ![Screenshot (19)](https://user-images.githubusercontent.com/105018459/218271245-03ac999a-b588-4499-8849-dd076a93aa2a.png)
+
+    - Winning screen/cut scene:
+
+    ![Screenshot (20)](https://user-images.githubusercontent.com/105018459/218271261-e90c40be-5b5d-4f72-9da8-6218e8cbc561.png)
 
  
 </details>
