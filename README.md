@@ -87,13 +87,13 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 1. <details><summary>Start of First level</summary> 
   
-  - In Third person:
-  
-    ![Screenshot (6)](https://user-images.githubusercontent.com/105018459/218269829-9e9acafc-47fd-4ca3-b52d-3d01c7d30f9c.png)
-  
-  - In First person:
-  
-    ![Screenshot (8)](https://user-images.githubusercontent.com/105018459/218269901-de072529-a3f4-4957-8c70-bfb9b46cde2e.png)
+    - In Third person:
+
+      ![Screenshot (6)](https://user-images.githubusercontent.com/105018459/218269829-9e9acafc-47fd-4ca3-b52d-3d01c7d30f9c.png)
+
+    - In First person:
+
+      ![Screenshot (8)](https://user-images.githubusercontent.com/105018459/218269901-de072529-a3f4-4957-8c70-bfb9b46cde2e.png)
   
 </details>
 
