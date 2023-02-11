@@ -35,14 +35,14 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 12. Player Model
 
-13. Missle Model
+13. Missile Model
 
 
 # Rules
 
   - The game contains 2 levels, the player has to escape both levels before the specific time ends and without dying to traps.
   - The player has to escape the first level before 25 seconds and without losing his health.
-  - The player has some power-ups that can help him in the first level such as aidkits, speed ups (missles), clocks (time extend).
+  - The player has some power-ups that can help him in the first level such as aidkits, speed ups (missiles), clocks (time extend).
   - The player needs to dodge and avoid the obstacles like laser lights, spikes, moving spikes in order to escape the first level in time and without losing his health.   
   - For the second level, the player needs to escape before 35 seconds as it is harder than the first level.
   - The player also needs to dodge and avoid more obstacles such as cannon fireballs, moving spikes, moving blades and spikes.
@@ -52,7 +52,7 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
   - The extra lives (hearts) help the player gain an extra live and acts as a check point to the second level so that if the player dies, he/she does not respawn at the first level, the respawn in the second level.
   - The time-extends (clocks) help the player gain more time by giving the player more seconds, so for each clock it gives an extra 5 seconds. For example, if the time is 20 seconds and the player acquires a clock, the player gains an extra 5 seconds and the time becomes 15 seconds.
   - The aidkits (extra healths) help the player regain lost health, each aidkit gives the player 10 health points, so for example if the player's health is 75 and the player obtains an aidkit, the player's health increases to 85. If the player's health is 100 and he/she obtains an aidkit, the player's health stays the same which is 100 (max. health).
-  - The speed ups (missles) help the player acquire extra movement speed. At first the player starts with speed of 1. Each time the player acquires a missle/speed up, the player's speed increases by 0.2. For example, if the player's speed was 1 and he/she acquires a missle/speed up, his speed increases to 1.2.
+  - The speed ups (missiles) help the player acquire extra movement speed. At first the player starts with speed of 1. Each time the player acquires a missile/speed up, the player's speed increases by 0.2. For example, if the player's speed was 1 and he/she acquires a missile/speed up, his speed increases to 1.2.
   - The Jump boosts (arrows) help the player jump higher. At first the player starts with a jump ability of 1. Each time the player acquires a jump-boost/arrow, the player's jump ability increases by 1. For example, if the player's jump ability was 1 and he/she acquires a jump-boost/arrow, his jump ability increases to 2.
   - The game contains first person and third person, as well as different and mixed lighting themes/sources.
   - The goal of this game is to escape in time and without dying and and having the least amount of time to escape both levels. Therefore the score to beat is the time needed to escape both rooms, the lower the total time of escaping both levels, the higher the score.
