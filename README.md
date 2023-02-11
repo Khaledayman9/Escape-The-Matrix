@@ -176,7 +176,11 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 
 
+# Technologies
 
+  - Microsoft Visual Studio 2019
+  - C/C++
+  - OpenGL3D
   
 
   
