@@ -147,7 +147,9 @@ A strange place so-called "The Matrix" where a player needs to escape from withi
 
 
 7. <details><summary>Screens and cut scenes</summary>
-  
+    
+    * Further work needed to improve the visibility of the text in all cut scenes/Inbetween screens.
+    
     - Losing screen/cut scene (whether in first or second level):
 
     ![Screenshot (14)](https://user-images.githubusercontent.com/105018459/218271122-35f83fd5-2da8-4e12-874a-bee8199a9ed7.png)
