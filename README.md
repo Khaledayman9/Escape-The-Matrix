@@ -1,5 +1,5 @@
 # Escape The Matrix
-A strange place so-called "The Matrix" where a player needs to escape from within a specified amount of time. It contains two levels, both levels containing different obstacles and traps to make it hard for the player. This was created using openGL3D. 
+A strange place so-called "The Matrix" where a player needs to escape from within a specified amount of time. It includes two levels, containing different obstacles and traps to make it hard for the player to escape in time. This was created using OpenGL3D. 
 
 ![](https://github.com/Khaledayman9/Escape-The-Matrix/blob/main/firstlevel.gif)
 ![](https://github.com/Khaledayman9/Escape-The-Matrix/blob/main/secondlevel.gif)
